@@ -19,10 +19,6 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 - <b>Remotes</b>
 - <b>Branching strategies</b>
 - <b>Extras</b>
-- <b>Using Journactl</b>
-- <b>Software Management</b>
-- <b>Network Configuration</b>
-- <b>SSH Overview, SSH Clients</b>
 
 <h2> Homework Tasks: </h2>
 
