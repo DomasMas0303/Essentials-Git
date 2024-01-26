@@ -1,4 +1,4 @@
-<h1>EPAM Essentials - Bash</h1>
+<h1>EPAM Essentials - Version Control with Git</h1>
 
 <h2>Description</h2>
 Each module consists of lectures followed up by "Knowledge check" tests after each topic and "homework".
@@ -7,43 +7,36 @@ Each module consists of lectures followed up by "Knowledge check" tests after ea
 
 <h2>Topics Included:</h2>
 
-- <b>What is bash</b> 
-- <b>Running commands</b>
-- <b>Scripts</b> 
-- <b>Variables</b>
-- <b>Environment variables, Path</b> 
-- <b>Special Variables</b>
-- <b>Conditional operators</b> 
-- <b>If Statement</b>
-- <b>Case Statement</b>
-- <b>Pipelines & Logical Operators</b>
-- <b>For Loop</b>
-- <b>While Loop</b>
-- <b>Until Loop</b>
-- <b>Positional Arguments</b>
-- <b>Input/Output</b>
-- <b>Functions</b>
+- <b>Version Control concept</b> 
+- <b>Download, install and configure git</b>
+- <b>GitHub</b> 
+- <b>Git graphical tools</b>
+- <b>Git internals</b> 
+- <b>Undoing changes</b>
+- <b>Branching and merge</b> 
+- <b>Tags</b>
+- <b>Stash</b>
+- <b>Remotes</b>
+- <b>Branching strategies</b>
+- <b>Extras</b>
+- <b>Using Journactl</b>
+- <b>Software Management</b>
+- <b>Network Configuration</b>
+- <b>SSH Overview, SSH Clients</b>
 
 <h2> Homework Tasks: </h2>
 
 #Each lecture contained a homework task.
 
-#Bash Final Task 1:
-
-![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/6b675f7b-626f-4828-8afc-5c05176a4abe)
-
-#Bash Final Task2:
-
-![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/b79d08a6-2f54-4cf4-9ce3-b6772840dd1c)
-![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/0a516c9b-b349-417b-87ea-6b8c82c2466f)
-
-
+![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/384e302b-f46f-4520-91d9-e910eb93c6e9)
+![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/99ddbf2b-0ad2-4a45-b647-9069b24537a8)
+![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/60258a6c-ccc9-4920-9528-05af6033ee56)
+![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/08fbcc10-d93a-4a35-84f0-ecf117ea7125)
+![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/f1a49347-18e4-442e-acbd-c9e0b3bad63b)
 
 <h2>Course:</h2>
 
-![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/0e2d2922-e1ce-419f-bcc6-eaaf1705195d)
-
-
+![image](https://github.com/DomasMas0303/Essentials-Git/assets/125759458/7011a803-5ed3-44fd-945a-6db22a123131)
 
 
 
